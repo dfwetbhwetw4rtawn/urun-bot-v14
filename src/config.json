@@ -1,7 +1,7 @@
 {
     "discord": {
-        "token": "discordapp_token",
-        "id": "discordapp_id"
+        "token": "MTI4OTQ5NzM3NjExNjk2OTU2NA.GySHKf.ghu1ijpudFaHR6qlyveR1wQNyKR3t7UcwBgv-Q",
+        "id": "1289497376116969564"
     },
     "applications_commands": {
         "global": true,
@@ -15,8 +15,8 @@
         "port": 3000
     },
     "owners": [
-       "owner_id_first",
-       "owner_id_second"
+       "1288536219667660894",
+       "1288536219667660894"
     ],
     "add": "adding_sub",
     "remove": "removeing_sub"
